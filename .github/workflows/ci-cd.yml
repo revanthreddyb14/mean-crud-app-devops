@@ -27,3 +27,4 @@ jobs:
         run: |
           docker build -t yourdockerhub/mean-frontend:latest frontend
           docker push yourdockerhub/mean-frontend:latest
+
