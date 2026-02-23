@@ -25,3 +25,18 @@ Run `ng serve --port 8081`
 You can modify the `src/app/services/tutorial.service.ts` file to adjust how the frontend interacts with the backend.
 
 Navigate to `http://localhost:8081/`
+
+
+# MEAN Stack CRUD Application – DevOps Deployment
+
+## Stack
+- Angular
+- Node.js + Express
+- MongoDB
+- Docker & Docker Compose
+- Nginx Reverse Proxy
+- GitHub Actions CI/CD
+
+## Deployment
+```bash
+docker-compose up -d
