@@ -21,7 +21,7 @@ services:
       - mean_net
 
   frontend:
-    image: yourdockerhub/mean-frontend:latest
+    image: revanthreddyb14/mean-frontend:latest
     container_name: frontend
     networks:
       - mean_net
